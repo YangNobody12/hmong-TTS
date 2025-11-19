@@ -24,7 +24,7 @@ This project is supported by high-performance computing research programs and re
 | -------------------------------------- | ------------------------------------------------------------------------ |
 | **ThaiSC (Thai Supercomputer Center)** | High-Performance Computing (HPC) resources                               |
 | **HPC IGNITE Program**                 | GPU-powered research resources (A100) and data-driven innovation support |
-| **Local Voice Community**              | Local language speech datasets                                           |
+| **Local Voice **              | Local language speech datasets                                           |
 
 The training and experimentation for this model were conducted on the **LANTA Supercomputer (A100 GPUs)** under supported HPC research initiatives as part of speech technology development for local languages.
 
